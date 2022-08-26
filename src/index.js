@@ -9,7 +9,7 @@ import {
   Attatchments,
 } from "./components";
 import GlobalStyle from "./globalStyles";
-import {postReq} from "../pages/index";
+import {postReq} from "./pages/index";
 
 ///import styled from "styled-components";
 
